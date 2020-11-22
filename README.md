@@ -14,3 +14,6 @@ a minimum number of shots. At each turn of the game, he chooses a square where h
 boats have been sunk, the game stops and the player's score is the number of moves that were played. The lower the score, the better the player performs.
 
 Note : The player in this game is the AI.
+
+## Collaborator 
+@Tripincloud
